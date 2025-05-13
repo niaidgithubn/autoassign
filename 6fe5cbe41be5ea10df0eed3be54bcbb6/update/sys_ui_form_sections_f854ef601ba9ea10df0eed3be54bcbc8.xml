@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f854ef601ba9ea10df0eed3be54bcbc8" sys_domain="global" table="x_g_nioa_niaid_aut_niaid_dl" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>bassem</sys_created_by>
+            <sys_created_on>2025-05-13 16:18:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d5423a01ba9ea10df0eed3be54bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_g_nioa_niaid_aut_niaid_dl" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">f854ef601ba9ea10df0eed3be54bcbc8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8d54ef601ba9ea10df0eed3be54bcbfb</sys_ui_section>
+            <sys_updated_by>bassem</sys_updated_by>
+            <sys_updated_on>2025-05-13 16:18:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>bassem</sys_created_by>
+            <sys_created_on>2025-05-13 16:18:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e95423a01ba9ea10df0eed3be54bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_g_nioa_niaid_aut_niaid_dl" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">f854ef601ba9ea10df0eed3be54bcbc8</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">915423a01ba9ea10df0eed3be54bcb0e</sys_ui_section>
+            <sys_updated_by>bassem</sys_updated_by>
+            <sys_updated_on>2025-05-13 16:18:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>bassem</sys_created_by>
+            <sys_created_on>2025-05-13 16:18:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>615423a01ba9ea10df0eed3be54bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_g_nioa_niaid_aut_niaid_dl" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">f854ef601ba9ea10df0eed3be54bcbc8</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">615423a01ba9ea10df0eed3be54bcb25</sys_ui_section>
+            <sys_updated_by>bassem</sys_updated_by>
+            <sys_updated_on>2025-05-13 16:18:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>bassem</sys_created_by>
+            <sys_created_on>2025-05-13 16:18:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0954ef601ba9ea10df0eed3be54bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_g_nioa_niaid_aut_niaid_dl" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">f854ef601ba9ea10df0eed3be54bcbc8</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_g_nioa_niaid_aut_niaid_dl" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">c154ef601ba9ea10df0eed3be54bcbcd</sys_ui_section>
+            <sys_updated_by>bassem</sys_updated_by>
+            <sys_updated_on>2025-05-13 16:18:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_g_nioa_niaid_aut_niaid_dl</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>bassem</sys_created_by>
+            <sys_created_on>2025-05-13 16:18:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f854ef601ba9ea10df0eed3be54bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_g_nioa_niaid_aut_niaid_dl</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NIAID auto assign incident" source="x_g_nioa_niaid_aut">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NIAID auto assign incident">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f854ef601ba9ea10df0eed3be54bcbc8</sys_update_name>
+            <sys_updated_by>bassem</sys_updated_by>
+            <sys_updated_on>2025-05-13 16:18:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

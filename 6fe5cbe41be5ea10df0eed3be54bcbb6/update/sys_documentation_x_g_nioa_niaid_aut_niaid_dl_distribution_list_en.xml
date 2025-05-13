@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="distribution_list" label="Distribution list " language="en" table="x_g_nioa_niaid_aut_niaid_dl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>distribution_list</element>
+            <help/>
+            <hint/>
+            <label>Distribution list </label>
+            <language>en</language>
+            <name>x_g_nioa_niaid_aut_niaid_dl</name>
+            <plural>Distribution list s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bassem</sys_created_by>
+            <sys_created_on>2025-05-13 14:08:50</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Distribution list</sys_name>
+            <sys_package display_value="NIAID auto assign incident" source="x_g_nioa_niaid_aut">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NIAID auto assign incident">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_scope>
+            <sys_update_name>sys_documentation_x_g_nioa_niaid_aut_niaid_dl_distribution_list_en</sys_update_name>
+            <sys_updated_by>bassem</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:08:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
