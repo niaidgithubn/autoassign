@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8a96c3681be5ea10df0eed3be54bcb32" extends="incident" label="NIAID DL" max_length="40" name="x_g_nioa_niaid_aut_niaid_dl" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Distribution list " max_length="500" name="distribution_list" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Distribution list" max_length="500" name="distribution_list" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Subject" max_length="500" name="subject" type="string"/>
     </element>
 </database>
