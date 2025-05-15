@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>false</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_g_nioa_niaid_aut_niaid_dl</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2025-05-14 14:12:09</sys_created_on>
+        <sys_id>a0c0d40d87e1a65cacddb848cebb35cf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_g_nioa_niaid_aut_niaid_dl</sys_name>
+        <sys_package display_value="NIAID auto assign incident" source="x_g_nioa_niaid_aut">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID auto assign incident">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_scope>
+        <sys_update_name>sys_security_acl_a0c0d40d87e1a65cacddb848cebb35cf</sys_update_name>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2025-05-15 13:47:02</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIAID auto assign incident">6fe5cbe41be5ea10df0eed3be54bcbb6</application>
+        <file_path/>
+        <instance_id>f9d058d91b5fd01041ab202de54bcb06</instance_id>
+        <instance_name>niaidprod</instance_name>
+        <name>sys_security_acl_a0c0d40d87e1a65cacddb848cebb35cf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_g_nioa_niaid_aut_niaid_dl</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>bassem</sys_created_by><sys_created_on>2025-05-14 14:12:09</sys_created_on><sys_id>a0c0d40d87e1a65cacddb848cebb35cf</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_g_nioa_niaid_aut_niaid_dl</sys_name><sys_package display_value="NIAID auto assign incident" source="x_g_nioa_niaid_aut">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_package><sys_policy/><sys_scope display_value="NIAID auto assign incident">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_scope><sys_update_name>sys_security_acl_a0c0d40d87e1a65cacddb848cebb35cf</sys_update_name><sys_updated_by>bassem</sys_updated_by><sys_updated_on>2025-05-15 13:47:02</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-840867382</payload_hash>
+        <record_name>x_g_nioa_niaid_aut_niaid_dl</record_name>
+        <reverted_from/>
+        <source>1f6f44b0872dee1cacddb848cebb35fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2025-05-15 13:47:02</sys_created_on>
+        <sys_id>3ac419dd972522900075bb4ad053af66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d432d3720000001</sys_recorded_at>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2025-05-15 13:47:02</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>6ec419dd672522903c993590a2d4ce65</update_guid>
+        <update_guid_history>6ec419dd672522903c993590a2d4ce65:-840867382,74f0548da2e1a65cb5b33c67d3813663:1575400419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2025-05-15 15:47:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>24c5472eedbb46498c4c1659686ccc01</sys_id>
+        <sys_metadata>a0c0d40d87e1a65cacddb848cebb35cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_g_nioa_niaid_aut_niaid_dl</sys_name>
+        <sys_package display_value="NIAID auto assign incident" source="x_g_nioa_niaid_aut">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_package>
+        <sys_parent display_value="x_g_nioa_niaid_aut_niaid_dl">734ec4b887e9ee1cacddb848cebb3575</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NIAID auto assign incident">6fe5cbe41be5ea10df0eed3be54bcbb6</sys_scope>
+        <sys_scope_delete display_value="">18a8fe61ddbd4c408349489750f02400</sys_scope_delete>
+        <sys_update_name>sys_security_acl_a0c0d40d87e1a65cacddb848cebb35cf</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_a0c0d40d87e1a65cacddb848cebb35cf">3ac419dd972522900075bb4ad053af66</sys_update_version>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2025-05-15 15:47:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
